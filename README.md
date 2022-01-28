@@ -1,4 +1,4 @@
 # MUSIC_BOT_JS
 Music bot for discord
-ОТредактируйте .env (token)
+Отредактируйте .env (token)
 Комадну .donate
